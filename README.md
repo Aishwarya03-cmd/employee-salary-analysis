@@ -9,7 +9,6 @@ Clean an employee dataset, analyze salary patterns across departments, gender an
 - Python
 - Pandas, NumPy
 - Matplotlib, Seaborn
-- Google Colab
 
 ## Dataset
 `EmployeeData.xlsx` contains employee details: department, gender, experience and annual salary.
