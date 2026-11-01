@@ -36,7 +36,7 @@ Clean an employee dataset, analyze salary patterns across departments, gender an
 4. **Key insights** generated automatically from the data
 
 ## How to Run
-1. Open the project in Google Colab or Jupyter Notebook.
+1. Open the Jupyter Notebook.
 2. Upload `EmployeeData.xlsx`.
 3. Run `employee_salary_analysis.py`.
 
@@ -46,8 +46,6 @@ Install the libraries if needed:
 pip install pandas numpy matplotlib seaborn openpyxl
 ```
 
-## Screenshots
-Add your chart screenshots here.
 
 ## Key Learnings
 - Handling missing values, duplicates and invalid data types
